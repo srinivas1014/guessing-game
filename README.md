@@ -1,2 +1,3 @@
 # guessing-game
-interactive guessing number game
+interactive guessing number game with python
+
